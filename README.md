@@ -1,0 +1,1 @@
+# arduino_potansiyometre_kullanimi
